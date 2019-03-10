@@ -10,6 +10,11 @@ Fetch Torrents using .torrent file or Magnet Links, Fetch Files from Other Serve
 
 Open URLs in Proxy to bypass Restrictions (works like VPN)
 
+Click this button to...
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+
 
 # Usage
 
